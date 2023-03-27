@@ -23,4 +23,4 @@ N/A
 
 ## Usage
 
-Link to video that demonstrates how to use the README Generator: https://drive.google.com/file/d/1uRq3CYYq_yTEe4t2R6WhOE9FY_PjRreM/view?usp=sharing
+Link to video that demonstrates how to use the README Generator: https://drive.google.com/file/d/1soR_a-OrpTQ2Azce0my68XQPY3S7rkGG/view
